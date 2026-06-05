@@ -15,11 +15,12 @@ Men kiberxavfsizlik va axborot texnologiyalari yo'nalishida izlanayotgan bo'laja
 * 🎯 **Focus:** Penetration Testing & Ethical Hacking
 * 💻 **Skills:** Python, Bash, Network Security
 * 📚 **Learning:** AI in Cybersecurity
-
+* 🎯 **Focus:** Penetration Testing, Ethical Hacking & Cyber Forensics
 ---
 
 ## 🛡️ Texnologiyalar va Instrumentlar
-`Kali Linux` `Wireshark` `Nmap` `Metasploit` `Python` `OpenCV` `Pandas`
+## 🛡️ Texnologiyalar va Instrumentlar
+`Kali Linux` `Wireshark` `Nmap` `Metasploit` `Cyber Forensics` `Digital Investigation` `Python`
 
 ---
 
