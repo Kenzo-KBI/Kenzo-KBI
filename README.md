@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Salom, Men Kenzo! | Cybersecurity Enthusiast & Developer
 
-<!--
-**Kenzo-KBI/Kenzo-KBI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_OS-Kali_Linux-blueviolet?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Ethical_Hacking-red?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Men Haqimda
+Men kiberxavfsizlik va axborot texnologiyalari yo'nalishida izlanayotgan bo'lajak mutaxassisman. Kali Linux muhitida ishlash va tizim xavfsizligini tekshirishga qiziqaman.
+
+* 🛠️ **OS:** Kali Linux (Personal Lab)
+* 🎯 **Focus:** Penetration Testing & Ethical Hacking
+* 💻 **Skills:** Python, Bash, Network Security
+* 📚 **Learning:** AI in Cybersecurity
+
+---
+
+## 🛡️ Texnologiyalar va Instrumentlar
+`Kali Linux` `Wireshark` `Nmap` `Metasploit` `Python` `OpenCV` `Pandas`
+
+---
+
+## 📊 GitHub Statistikam
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenzo-KBI&show_icons=true&theme=dark&count_private=true" alt="Kenzo GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Xavfsizlik bu mahsulot emas, bu jarayondir."</i>
+</p>
+
